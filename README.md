@@ -1,2 +1,2 @@
 # game-of-life
-Game of Life proto
+Game of Life proto by netudgi
